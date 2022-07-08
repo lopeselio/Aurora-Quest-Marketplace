@@ -14,6 +14,13 @@ This is the place to shop your game assets using the DGN game token and later us
 [Verify Here on Aurora Testnet Explorer on Near Blockchain](https://testnet.aurorascan.dev/tx/0x4c2494a2dea9ffdd1b10d0bb6db22d4cfe17f4af78f2e7fc8fda0fb92dc73f14)
 
 
+<img width="1440" alt="Screenshot 2022-07-08 at 7 39 47 PM" src="https://user-images.githubusercontent.com/43913734/178010089-81087310-47e4-4707-ba7b-4a893aa5055e.png">
+
+<img width="1440" alt="Screenshot 2022-07-08 at 7 39 57 PM" src="https://user-images.githubusercontent.com/43913734/178010105-abac7b31-4d7e-4ff7-8b68-9e5515292754.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/43913734/178010247-f0ac7dcb-b85b-4467-ba38-b9ae33f275b2.png">
+
+
 Refer to `hardhat.config.js`:
 `
 module.exports = {

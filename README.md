@@ -5,7 +5,9 @@ This is the place to shop your game assets using the DGN game token and later us
 
 
 
-# Smart Contracts Deployed to Emerald Paratime Network
+# Smart Contracts Deployed to Near Aurora L2 Network
+![image](https://user-images.githubusercontent.com/43913734/203010388-ae8ac8a9-150c-4aef-a9ca-309244b1873c.png)
+
 `nftaddress = "0x5c089556FA8814E4A7065188C6bc33FFB6274cA1"` 
 
 [Verify Here on Aurora Testnet Explorer on Near Blockchain](https://testnet.aurorascan.dev/address/0x5c089556FA8814E4A7065188C6bc33FFB6274cA1)

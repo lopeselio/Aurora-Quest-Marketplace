@@ -1,4 +1,5 @@
 # AuroraQuest Marketplace
+![image](https://user-images.githubusercontent.com/43913734/203008822-a40f63de-feba-4ae2-80c5-3ec47360f396.png)
 
 This is the place to shop your game assets using the DGN game token and later use these to equip the purchased heroes inside the dungeon based AuroraQuest Game on the NEAR Aurora Testnetwork. You can obtain DGN (Game Native Token) token by swapping an equivalent amount of Aurora Rinkeby ETH  on the swap inside our Metaverse.
 
